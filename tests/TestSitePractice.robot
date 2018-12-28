@@ -7,13 +7,9 @@ Test Teardown       Fechar navegador
 ### TEARDOWN: ele roda keyword depois de uma suite ou um teste
 
 *** Test Case ***
-Caso de Teste 01: Pesquisar produto existente
-    Acessar a página home do site
-    Digitar o nome do produto "Blouse" no campo de pesquisa
-    Clicar no botão pesquisar
-    Conferir se o produto "Blouse" foi listado no site
-
-Caso de Teste 02: Pesquisar produto não existente
-    Acessar a página home do site
-    Digitar o nome do produto "itemNãoExistente" no campo de pesquisa
-    Clicar no botão pesquisar
+Validar acesso ao blog robotzandotestes
+    Acessar blog robotizandotestes
+Validar pequisa de postagens
+    Pesquisar a postagem "session premiere"
+    Clicaar no post "Session Premiere: Introdução ao Robot Framework" encontrado
+    

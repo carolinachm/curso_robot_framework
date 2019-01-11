@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite failures="2" skip="0" tests="2" name="Tests" errors="0">
-<testcase classname="Tests.TestSitePractice" name="Validar acesso ao blog robotzandotestes" time="0">
-<failure message="Setup failed:&#10;No keyword with name 'Open Browser' found.&#10;&#10;Also teardown failed:&#10;No keyword with name 'Close Browser' found." type="AssertionError"></failure>
-</testcase>
-<testcase classname="Tests.TestSitePractice" name="Validar pequisa de postagens" time="0">
-<failure message="Setup failed:&#10;No keyword with name 'Open Browser' found.&#10;&#10;Also teardown failed:&#10;No keyword with name 'Close Browser' found." type="AssertionError"></failure>
-</testcase>
-</testsuite>
